@@ -1,0 +1,18 @@
+Chu viet thuong: 
+a-3
+c-1
+e-2
+g-4
+h-5
+i-3
+n-6
+o-4
+u-1
+Chu viet hoa: 
+C-3
+K-1
+M-1
+N-1
+S-1
+T-2
+V-1

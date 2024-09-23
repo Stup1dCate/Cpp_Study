@@ -1,0 +1,4 @@
+3
+3123410418; Vu Ngoc Tung; 2005; 7.5
+3123410417; Phan Thanh Tung; 2005; 8.2
+3123410437; Truong Minh Vu; 2005; 9.7

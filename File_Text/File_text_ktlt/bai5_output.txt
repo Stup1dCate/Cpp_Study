@@ -1,0 +1,5 @@
+Cau a: 329
+Cau b: 131
+Cau c: 67 131 37 
+Cau d: 131 
+Cau e: 4 13 9 5 10 
