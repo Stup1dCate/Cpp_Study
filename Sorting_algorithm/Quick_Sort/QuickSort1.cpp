@@ -1,4 +1,4 @@
- //										Quick sort: Do phuc tap cua thuat toan: O(n.log(n)) -> O(n^2)
+//Quick sort: Do phuc tap cua thuat toan: O(n.log(n)) -> O(n^2)
 #include<iostream>
 #include<fstream>
 using namespace std;
