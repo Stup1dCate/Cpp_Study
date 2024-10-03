@@ -1,4 +1,4 @@
-//										Merge sort - O(n.log(n))
+//Merge sort - O(n.log(n))
 #include<iostream>
 #include<fstream>
 using namespace std;
