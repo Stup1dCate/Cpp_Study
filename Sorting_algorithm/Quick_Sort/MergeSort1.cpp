@@ -8,8 +8,8 @@ void Try(int a[], int left, int mid, int right) {
     int l_half[n1];
     int r_half[n2];
 	//khoi tao 2 mang chia doi
-	    for (int i=0; i<n1; i++) l_half[i] = a[left + i];
-	    for (int j=0; j<n2; j++) r_half[j] = a[mid + 1 + j];
+	for (int i=0; i<n1; i++) l_half[i] = a[left + i];
+	for (int j=0; j<n2; j++) r_half[j] = a[mid + 1 + j];
 
     int i=0, j=0, k=left;
     //kiem tra cac phan tu cua 2 mang da chia doi xem phan tu nao nho hon thi gan vao truoc
@@ -43,18 +43,18 @@ void MergeSort(int a[], int left, int right) {
     }
 }
 void print (int a[], int size){
-	for(int i=0;i<size;i++){
-		cout<<a[i]<<" ";
-	}
-	cout<<endl;
+    for(int i=0;i<size;i++){
+	cout<<a[i]<<" ";
+   }
+   cout<<endl;
 }
 int main() {
     int a[1000], n;
-	freopen("quickk.txt","r",stdin);
-	cin>>n;
-	for(int i=0;i<n;i++){
-		cin>>a[i];
-	}
+    freopen("quickk.txt","r",stdin);
+    cin>>n;
+    for(int i=0;i<n;i++){
+	cin>>a[i];
+    }
 	
     cout<<"Mang truoc khi sap xep la: "<<endl;
     print(a, n);
